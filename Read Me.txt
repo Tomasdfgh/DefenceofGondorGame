@@ -1,0 +1,6 @@
+Hello,
+
+In order for this game to work, please dont change the names of the folder or pictures found in the folder. Don't move the folder "Images" or the .exe file either. Only move the shortcut.
+
+Enjoy,
+Tom :)
