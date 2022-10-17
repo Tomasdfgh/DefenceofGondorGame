@@ -17,3 +17,6 @@ Main UI of the game with no infrastructure build
 ![image](https://user-images.githubusercontent.com/86145397/196066449-f14b7682-df23-4c95-82eb-63bdefcc8ead.png)
 
 Choosing with infrastructure to build on a plot of land
+
+![image](https://user-images.githubusercontent.com/86145397/196066614-3e691861-9d2c-416c-91f7-0b8bc5b41599.png)  ![image](https://user-images.githubusercontent.com/86145397/196066626-fad56482-6e8a-48ec-b46d-6c773884f755.png)
+
