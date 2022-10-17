@@ -29,3 +29,5 @@ Selecting the wall
 Another interesting application in this project is the autoplayer. The autoplayer is implements an algorithm that delegates specific tasks every couple days. Once those tasks have been delegated, the application moves the mouse towards specific buttons to complete the task. The Autoplayer works incredibly quick and can play the game incredibly well
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/86145397/196067887-5d7b46d2-1461-430a-9fb0-581705b63997.gif)
+
+As the GIF demonstrates, the autoplayer is able to locate where the game is and moved it to a specific location. After that, it performs tasks at an incredible rate.
