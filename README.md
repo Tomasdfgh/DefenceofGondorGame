@@ -18,5 +18,10 @@ Main UI of the game with no infrastructure build
 
 Choosing with infrastructure to build on a plot of land
 
-![image](https://user-images.githubusercontent.com/86145397/196066614-3e691861-9d2c-416c-91f7-0b8bc5b41599.png)  ![image](https://user-images.githubusercontent.com/86145397/196066626-fad56482-6e8a-48ec-b46d-6c773884f755.png)
+![image](https://user-images.githubusercontent.com/86145397/196066614-3e691861-9d2c-416c-91f7-0b8bc5b41599.png)  
 
+Selecting the strongholg
+
+![image](https://user-images.githubusercontent.com/86145397/196066626-fad56482-6e8a-48ec-b46d-6c773884f755.png)
+
+Selecting the wall
