@@ -13,3 +13,7 @@ A couple screenshots of the game can be seen below
 ![image](https://user-images.githubusercontent.com/86145397/196066394-bf36e6b1-787a-419d-84eb-373129110597.png)
 
 Main UI of the game with no infrastructure build
+
+![image](https://user-images.githubusercontent.com/86145397/196066449-f14b7682-df23-4c95-82eb-63bdefcc8ead.png)
+
+Choosing with infrastructure to build on a plot of land
