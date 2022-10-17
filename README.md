@@ -20,8 +20,10 @@ Choosing with infrastructure to build on a plot of land
 
 ![image](https://user-images.githubusercontent.com/86145397/196066614-3e691861-9d2c-416c-91f7-0b8bc5b41599.png)  
 
-Selecting the strongholg
+Selecting the stronghold
 
 ![image](https://user-images.githubusercontent.com/86145397/196066626-fad56482-6e8a-48ec-b46d-6c773884f755.png)
 
 Selecting the wall
+
+Another interesting application in this project is the autoplayer. The autoplayer is implements an algorithm that delegates specific tasks every couple days. Once those tasks have been delegated, the application moves the mouse towards specific buttons to complete the task. The Autoplayer works incredibly quick and can play the game incredibly well
