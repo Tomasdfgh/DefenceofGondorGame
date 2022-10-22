@@ -1,4 +1,4 @@
-# DefenceofGondorGame
+# Defence of Gondor Game
 UI for Defence of Gondor
 
 Inorder to run the main application, download DefenceofGondor.py and DefenceofGondorPhotos folder. To run the auto player, download AutoPlayer.py.
